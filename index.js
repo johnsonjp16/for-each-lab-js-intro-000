@@ -1,6 +1,6 @@
 function iterativeLog(array){
   array.forEach((element, index, array) => {
-    debugger
+    //debugger
     console.log(`${index}: ${element}`)
   })
 }
